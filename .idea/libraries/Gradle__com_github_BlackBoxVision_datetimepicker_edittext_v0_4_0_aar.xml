@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.BlackBoxVision:datetimepicker-edittext:v0.4.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/datetimepicker-edittext-v0.4.0.aar/cacca8ddb14a563ee078d39d3a5a67cf/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-1/files-1.1/datetimepicker-edittext-v0.4.0.aar/cacca8ddb14a563ee078d39d3a5a67cf/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.BlackBoxVision/datetimepicker-edittext/v0.4.0/fa99de37bc4714c694ddfc8c8259ea7ad3c30d6c/datetimepicker-edittext-v0.4.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
