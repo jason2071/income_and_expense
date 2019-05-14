@@ -1,23 +1,25 @@
 package com.example.income_and_expense
 
-import android.support.v7.app.AppCompatActivity
+import android.content.Intent
 import android.os.Bundle
+import android.support.v7.app.AppCompatActivity
 import android.widget.Toast
-import kotlinx.android.synthetic.main.activity_input_data.*
+import kotlinx.android.synthetic.main.activity_main.*
 
 class MainActivity : AppCompatActivity() {
 
     override fun onCreate(savedInstanceState: Bundle?) {
         super.onCreate(savedInstanceState)
-        setContentView(R.layout.activity_input_data)
+        setContentView(R.layout.activity_main)
 
-        inputDate.setOnFocusChangeListener { v, hasFocus ->
-            if(hasFocus) {
-                toast("true")
-            } else {
-                toast("false")
-            }
+        btnRecordedItem.setOnClickListener {
+            toast("btnRecordedItem")
         }
+
+        btnNewItem.setOnClickListener {
+            startActivity(Intent(this@MainActivity, InputDataActivity::class.java))
+        }
+
     }
 
     private fun toast(s: String) {
