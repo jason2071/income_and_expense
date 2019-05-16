@@ -25,6 +25,10 @@ animator mtrl_fab_hide_motion_spec
 animator mtrl_fab_show_motion_spec
 animator mtrl_fab_transformation_sheet_collapse_spec
 animator mtrl_fab_transformation_sheet_expand_spec
+array expenseItem
+array incomeItem
+array monthItem
+array yearItem
 attr DialogSpotColor
 attr DialogSpotCount
 attr DialogTitleAppearance
@@ -1060,6 +1064,7 @@ drawable design_password_eye
 drawable design_snackbar_background
 drawable dmax_spots_spot
 drawable ic_add_box
+drawable ic_edit
 drawable ic_launcher_background
 drawable ic_launcher_foreground
 drawable ic_mtrl_chip_checked_black
@@ -1084,7 +1089,8 @@ drawable notification_template_icon_bg
 drawable notification_template_icon_low_bg
 drawable notification_tile_bg
 drawable notify_panel_notification_icon_bg
-drawable shape_edit
+drawable shape_edit_text
+drawable shape_spinner
 drawable tooltip_frame_dark
 drawable tooltip_frame_light
 id ALT
@@ -1116,13 +1122,13 @@ id add
 id alertTitle
 id all
 id always
+id appBar
 id async
 id auto
 id barrier
 id beginning
 id blocking
 id bottom
-id btnAddDate
 id btnNewItem
 id btnRecordedItem
 id btnSaveData
@@ -1155,8 +1161,6 @@ id disableHome
 id dmax_spots_progress
 id dmax_spots_title
 id editAmount
-id editDate
-id editTitle
 id edit_query
 id end
 id enterAlways
@@ -1164,6 +1168,7 @@ id enterAlwaysCollapsed
 id exitUntilCollapsed
 id expand_activities_button
 id expanded_menu
+id fab
 id fill
 id fill_horizontal
 id fill_vertical
@@ -1218,6 +1223,7 @@ id progress_circular
 id progress_horizontal
 id radio
 id radioExpense
+id radioGroupType
 id radioIncome
 id right
 id right_icon
@@ -1253,6 +1259,9 @@ id snackbar_text
 id snap
 id snapMargins
 id spacer
+id spinner
+id spinnerMonth
+id spinnerYear
 id split_action_bar
 id spread
 id spread_inside
@@ -1281,6 +1290,7 @@ id time
 id title
 id titleDividerNoCustom
 id title_template
+id toolbar
 id top
 id topPanel
 id touch_outside
@@ -1289,6 +1299,10 @@ id transition_layout_save
 id transition_position
 id transition_scene_layoutid_cache
 id transition_transform
+id tvDate
+id tvDisplayExpense
+id tvDisplayIncome
+id tvDisplayTotal
 id uniform
 id unlabeled
 id up
@@ -1630,6 +1644,7 @@ style Base_Widget_MaterialComponents_TextInputLayout
 style CardView
 style CardView_Dark
 style CardView_Light
+style NoActionBar
 style Platform_AppCompat
 style Platform_AppCompat_Light
 style Platform_MaterialComponents
@@ -1929,6 +1944,7 @@ style Widget_MaterialComponents_TextInputLayout_OutlinedBox
 style Widget_MaterialComponents_TextInputLayout_OutlinedBox_Dense
 style Widget_MaterialComponents_Toolbar
 style Widget_Support_CoordinatorLayout
+style spinner_style
 styleable ActionBar background backgroundSplit backgroundStacked contentInsetEnd contentInsetEndWithActions contentInsetLeft contentInsetRight contentInsetStart contentInsetStartWithNavigation customNavigationLayout displayOptions divider elevation height hideOnContentScroll homeAsUpIndicator homeLayout icon indeterminateProgressStyle itemPadding logo navigationMode popupTheme progressBarPadding progressBarStyle subtitle subtitleTextStyle title titleTextStyle
 styleable ActionBarLayout android_layout_gravity
 styleable ActionMenuItemView android_minWidth

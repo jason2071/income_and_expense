@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from D:\Android\income_and_expense\app\src\main\AndroidManifest.xml:2:1-29:12
-INJECTED from D:\Android\income_and_expense\app\src\main\AndroidManifest.xml:2:1-29:12
-INJECTED from D:\Android\income_and_expense\app\src\main\AndroidManifest.xml:2:1-29:12
-INJECTED from D:\Android\income_and_expense\app\src\main\AndroidManifest.xml:2:1-29:12
+ADDED from D:\Android\income_and_expense\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from D:\Android\income_and_expense\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from D:\Android\income_and_expense\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from D:\Android\income_and_expense\app\src\main\AndroidManifest.xml:2:1-31:12
 MERGED from [com.github.BlackBoxVision:datetimepicker-edittext:v0.4.0] C:\Users\Phm\.gradle\caches\transforms-1\files-1.1\datetimepicker-edittext-v0.4.0.aar\cacca8ddb14a563ee078d39d3a5a67cf\AndroidManifest.xml:2:1-17:12
 MERGED from [com.android.support:design:28.0.0] C:\Users\Phm\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\1a0786d7dcc0850258fd0ee1ce311434\AndroidManifest.xml:17:1-24:12
 MERGED from [com.rengwuxian.materialedittext:library:2.1.4] C:\Users\Phm\.gradle\caches\transforms-1\files-1.1\library-2.1.4.aar\5e5425afd48f5f48109ee1a9258214e4\AndroidManifest.xml:2:1-10:12
@@ -39,25 +39,25 @@ MERGED from [com.android.support:interpolator:28.0.0] C:\Users\Phm\.gradle\cache
 MERGED from [android.arch.lifecycle:livedata:1.1.1] C:\Users\Phm\.gradle\caches\transforms-1\files-1.1\livedata-1.1.1.aar\0b7b4ff934e0f7188c295f58495881ed\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.lifecycle:livedata-core:1.1.1] C:\Users\Phm\.gradle\caches\transforms-1\files-1.1\livedata-core-1.1.1.aar\4c7b46c6a14c0df4b1d6b464747f450b\AndroidManifest.xml:17:1-22:12
 MERGED from [android.arch.core:runtime:1.1.1] C:\Users\Phm\.gradle\caches\transforms-1\files-1.1\runtime-1.1.1.aar\e898c9b40599d06debebc8c48fac7ff3\AndroidManifest.xml:17:1-22:12
-INJECTED from D:\Android\income_and_expense\app\src\main\AndroidManifest.xml:2:1-29:12
-INJECTED from D:\Android\income_and_expense\app\src\main\AndroidManifest.xml:2:1-29:12
-INJECTED from D:\Android\income_and_expense\app\src\main\AndroidManifest.xml:2:1-29:12
+INJECTED from D:\Android\income_and_expense\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from D:\Android\income_and_expense\app\src\main\AndroidManifest.xml:2:1-31:12
+INJECTED from D:\Android\income_and_expense\app\src\main\AndroidManifest.xml:2:1-31:12
 	package
 		ADDED from D:\Android\income_and_expense\app\src\main\AndroidManifest.xml:3:11-51
 		INJECTED from D:\Android\income_and_expense\app\src\main\AndroidManifest.xml
 		INJECTED from D:\Android\income_and_expense\app\src\main\AndroidManifest.xml
 	android:versionName
 		INJECTED from D:\Android\income_and_expense\app\src\main\AndroidManifest.xml
-		ADDED from D:\Android\income_and_expense\app\src\main\AndroidManifest.xml:2:1-29:12
+		ADDED from D:\Android\income_and_expense\app\src\main\AndroidManifest.xml:2:1-31:12
 		INJECTED from D:\Android\income_and_expense\app\src\main\AndroidManifest.xml
 	android:versionCode
 		INJECTED from D:\Android\income_and_expense\app\src\main\AndroidManifest.xml
-		ADDED from D:\Android\income_and_expense\app\src\main\AndroidManifest.xml:2:1-29:12
+		ADDED from D:\Android\income_and_expense\app\src\main\AndroidManifest.xml:2:1-31:12
 		INJECTED from D:\Android\income_and_expense\app\src\main\AndroidManifest.xml
 	xmlns:android
 		ADDED from D:\Android\income_and_expense\app\src\main\AndroidManifest.xml:2:11-69
 application
-ADDED from D:\Android\income_and_expense\app\src\main\AndroidManifest.xml:5:5-27:19
+ADDED from D:\Android\income_and_expense\app\src\main\AndroidManifest.xml:5:5-29:19
 MERGED from [com.github.BlackBoxVision:datetimepicker-edittext:v0.4.0] C:\Users\Phm\.gradle\caches\transforms-1\files-1.1\datetimepicker-edittext-v0.4.0.aar\cacca8ddb14a563ee078d39d3a5a67cf\AndroidManifest.xml:11:5-15:19
 MERGED from [com.github.BlackBoxVision:datetimepicker-edittext:v0.4.0] C:\Users\Phm\.gradle\caches\transforms-1\files-1.1\datetimepicker-edittext-v0.4.0.aar\cacca8ddb14a563ee078d39d3a5a67cf\AndroidManifest.xml:11:5-15:19
 MERGED from [com.android.support:design:28.0.0] C:\Users\Phm\.gradle\caches\transforms-1\files-1.1\design-28.0.0.aar\1a0786d7dcc0850258fd0ee1ce311434\AndroidManifest.xml:22:5-20
@@ -87,31 +87,35 @@ MERGED from [com.android.support:versionedparcelable:28.0.0] C:\Users\Phm\.gradl
 	android:theme
 		ADDED from D:\Android\income_and_expense\app\src\main\AndroidManifest.xml:11:13-44
 activity#com.example.income_and_expense.IncomeExpenseActivity
-ADDED from D:\Android\income_and_expense\app\src\main\AndroidManifest.xml:12:9-13:20
+ADDED from D:\Android\income_and_expense\app\src\main\AndroidManifest.xml:12:9-15:20
+	android:screenOrientation
+		ADDED from D:\Android\income_and_expense\app\src\main\AndroidManifest.xml:13:19-55
+	android:theme
+		ADDED from D:\Android\income_and_expense\app\src\main\AndroidManifest.xml:14:19-53
 	android:name
 		ADDED from D:\Android\income_and_expense\app\src\main\AndroidManifest.xml:12:19-56
 activity#com.example.income_and_expense.InputDataActivity
-ADDED from D:\Android\income_and_expense\app\src\main\AndroidManifest.xml:14:9-17:20
+ADDED from D:\Android\income_and_expense\app\src\main\AndroidManifest.xml:16:9-19:20
 	android:screenOrientation
-		ADDED from D:\Android\income_and_expense\app\src\main\AndroidManifest.xml:16:17-53
+		ADDED from D:\Android\income_and_expense\app\src\main\AndroidManifest.xml:18:17-53
 	android:name
-		ADDED from D:\Android\income_and_expense\app\src\main\AndroidManifest.xml:15:17-50
+		ADDED from D:\Android\income_and_expense\app\src\main\AndroidManifest.xml:17:17-50
 activity#com.example.income_and_expense.MainActivity
-ADDED from D:\Android\income_and_expense\app\src\main\AndroidManifest.xml:18:9-26:20
+ADDED from D:\Android\income_and_expense\app\src\main\AndroidManifest.xml:20:9-28:20
 	android:screenOrientation
-		ADDED from D:\Android\income_and_expense\app\src\main\AndroidManifest.xml:20:17-53
+		ADDED from D:\Android\income_and_expense\app\src\main\AndroidManifest.xml:22:17-53
 	android:name
-		ADDED from D:\Android\income_and_expense\app\src\main\AndroidManifest.xml:19:17-45
+		ADDED from D:\Android\income_and_expense\app\src\main\AndroidManifest.xml:21:17-45
 intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
-ADDED from D:\Android\income_and_expense\app\src\main\AndroidManifest.xml:21:13-25:29
+ADDED from D:\Android\income_and_expense\app\src\main\AndroidManifest.xml:23:13-27:29
 action#android.intent.action.MAIN
-ADDED from D:\Android\income_and_expense\app\src\main\AndroidManifest.xml:22:17-68
+ADDED from D:\Android\income_and_expense\app\src\main\AndroidManifest.xml:24:17-68
 	android:name
-		ADDED from D:\Android\income_and_expense\app\src\main\AndroidManifest.xml:22:25-66
+		ADDED from D:\Android\income_and_expense\app\src\main\AndroidManifest.xml:24:25-66
 category#android.intent.category.LAUNCHER
-ADDED from D:\Android\income_and_expense\app\src\main\AndroidManifest.xml:24:17-76
+ADDED from D:\Android\income_and_expense\app\src\main\AndroidManifest.xml:26:17-76
 	android:name
-		ADDED from D:\Android\income_and_expense\app\src\main\AndroidManifest.xml:24:27-74
+		ADDED from D:\Android\income_and_expense\app\src\main\AndroidManifest.xml:26:27-74
 uses-sdk
 INJECTED from D:\Android\income_and_expense\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from D:\Android\income_and_expense\app\src\main\AndroidManifest.xml

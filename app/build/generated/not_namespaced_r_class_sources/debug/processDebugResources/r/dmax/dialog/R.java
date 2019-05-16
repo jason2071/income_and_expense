@@ -12,50 +12,50 @@ public final class R {
     public static final class attr {
         private attr() {}
 
-        public static final int DialogSpotColor = 0x7f030000;
-        public static final int DialogSpotCount = 0x7f030001;
-        public static final int DialogTitleAppearance = 0x7f030002;
-        public static final int DialogTitleText = 0x7f030003;
+        public static final int DialogSpotColor = 0x7f040000;
+        public static final int DialogSpotCount = 0x7f040001;
+        public static final int DialogTitleAppearance = 0x7f040002;
+        public static final int DialogTitleText = 0x7f040003;
     }
     public static final class color {
         private color() {}
 
-        public static final int spots_dialog_color = 0x7f05007a;
+        public static final int spots_dialog_color = 0x7f06007a;
     }
     public static final class dimen {
         private dimen() {}
 
-        public static final int progress_margin = 0x7f0600d7;
-        public static final int progress_width = 0x7f0600d8;
-        public static final int spot_size = 0x7f0600d9;
-        public static final int title_margin = 0x7f0600da;
-        public static final int title_padding = 0x7f0600db;
+        public static final int progress_margin = 0x7f0700d7;
+        public static final int progress_width = 0x7f0700d8;
+        public static final int spot_size = 0x7f0700d9;
+        public static final int title_margin = 0x7f0700da;
+        public static final int title_padding = 0x7f0700db;
     }
     public static final class drawable {
         private drawable() {}
 
-        public static final int dmax_spots_spot = 0x7f070063;
+        public static final int dmax_spots_spot = 0x7f080063;
     }
     public static final class id {
         private id() {}
 
-        public static final int dmax_spots_progress = 0x7f080041;
-        public static final int dmax_spots_title = 0x7f080042;
+        public static final int dmax_spots_progress = 0x7f090041;
+        public static final int dmax_spots_title = 0x7f090042;
     }
     public static final class layout {
         private layout() {}
 
-        public static final int dmax_spots_dialog = 0x7f0b002d;
+        public static final int dmax_spots_dialog = 0x7f0c002d;
     }
     public static final class style {
         private style() {}
 
-        public static final int SpotsDialogDefault = 0x7f0e00e5;
+        public static final int SpotsDialogDefault = 0x7f0f00e6;
     }
     public static final class styleable {
         private styleable() {}
 
-        public static final int[] Dialog = { 0x7f030000, 0x7f030001, 0x7f030002, 0x7f030003 };
+        public static final int[] Dialog = { 0x7f040000, 0x7f040001, 0x7f040002, 0x7f040003 };
         public static final int Dialog_DialogSpotColor = 0;
         public static final int Dialog_DialogSpotCount = 1;
         public static final int Dialog_DialogTitleAppearance = 2;

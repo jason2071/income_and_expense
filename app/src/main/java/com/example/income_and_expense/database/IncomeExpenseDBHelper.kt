@@ -28,7 +28,7 @@ class IncomeExpenseDBHelper(context: Context) : SQLiteOpenHelper(context, DATABA
     }
 
     override fun onUpgrade(db: SQLiteDatabase?, oldVersion: Int, newVersion: Int) {
-        db!!.execSQL("DROP TABLE IF EXISTS $COLUMN_TITLE")
+        db!!.execSQL("DROP TABLE IF EXISTS $TABLE_NAME")
     }
 
     companion object {
